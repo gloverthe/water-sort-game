@@ -1,6 +1,6 @@
-# SonjasWaterSort
+# Water sort game
 
-SonjasWaterSort is a Java-based game, built using LibGDX where the objective is to sort colored water into tubes. The game includes various features such as collision detection, color-based sorting logic, and sound effects for pouring.
+Water sort game is a Java-based game, built using LibGDX where the objective is to sort colored water into tubes. The game includes various features such as collision detection, color-based sorting logic, and sound effects for pouring.
 
 This is a work in progress, the game loop is finished but needs polish, with a UI and more levels.
 
