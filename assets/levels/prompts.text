@@ -1,0 +1,22 @@
+using the json document below, generate more levels of increasing complexity. Using more tubes and different colours: 
+{
+  "level1": {
+    "tube1": ["red", "blue", "red", "blue"],
+    "tube2": ["blue", "red", "blue", "red"],
+    "tube3": [],
+
+  },
+  "level2”: {
+    "tube1": ["blue", "blue", "red", "yellow"],
+    "tube2": ["blue", "blue", "red", "yellow"],
+    "tube3": [],
+	“tube4”:[“red”, “red”, “yellow”, “yellow”]
+
+}  
+
+
+The following rules must be adhered to: 
+	Tubes can have a maximum of 4 items
+	There must be at least one empty tube in each level, 
+	The total number of colours used cannot be more than the number of tubes minus 1
+	There same colour cannot occur in a tube more that 3 times

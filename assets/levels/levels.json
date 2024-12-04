@@ -1,0 +1,38 @@
+{
+    "level1": {
+      "tube1": ["red", "blue", "red", "blue"],
+      "tube2": ["blue", "red", "blue", "red"],
+      "tube3": []
+    },
+    "level2": {
+      "tube1": ["blue", "blue", "red", "yellow"],
+      "tube2": ["blue", "blue", "red", "yellow"],
+      "tube3": [],
+      "tube4": ["red", "red", "yellow", "yellow"]
+    },
+    "level3": {
+      "tube1": ["red", "blue", "yellow", "green"],
+      "tube2": ["blue", "yellow", "green", "green"],
+      "tube3": ["red", "red", "red", "blue"],
+      "tube4": [],
+      "tube5": ["yellow", "yellow", "blue", "green"]
+    },
+    "level4": {
+      "tube1": ["red", "blue", "yellow", "green"],
+      "tube2": ["blue", "yellow", "green", "purple"],
+      "tube3": ["red", "red", "red", "blue"],
+      "tube4": [],
+      "tube5": ["yellow", "yellow", "blue", "green"],
+      "tube6": ["purple", "purple", "purple", "green"]
+    },
+    "level5": {
+      "tube1": ["red", "blue", "yellow", "green"],
+      "tube2": ["blue", "yellow", "green", "purple"],
+      "tube3": ["red", "red", "orange", "blue"],
+      "tube4": [],
+      "tube5": ["yellow", "yellow", "green", "green"],
+      "tube6": ["purple", "purple", "purple", "green"],
+      "tube7": ["orange", "orange", "orange", "purple"]
+    }
+  }
+  
