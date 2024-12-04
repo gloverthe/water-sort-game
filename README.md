@@ -23,12 +23,12 @@ To run this project, you need to have Java and the LibGDX framework installed.
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/gloverthe/SonjasWaterSort.git
+git clone https://github.com/gloverthe/water-sort-game.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-cd SonjasWaterSort
+cd water-sort-game
 ```
 
 3. Import the project into your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
